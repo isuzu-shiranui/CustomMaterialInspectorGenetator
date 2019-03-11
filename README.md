@@ -20,4 +20,4 @@ nameの部分は6でつけたクラス名になります。
 5. Select template file. usualy select default .ct template file in Template folder.
 6. Enter class name. and click "OK" button.
 7. Please note that the output file is dependent on Uiutils.cs.Put on the same folder hierarchy.
-8. Edit shader file. https://docs.unity3d.com/ja/current/Manual/SL-CustomEditor.html "name" is class name given in the 6th step.
+8. Edit shader file. [more](https://docs.unity3d.com/ja/current/Manual/SL-CustomEditor.html) "name" is class name given in the 6th step.
