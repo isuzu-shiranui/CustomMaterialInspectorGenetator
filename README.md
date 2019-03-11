@@ -8,7 +8,7 @@
 5. TemplateFileに、Templateフォルダ内のファイルを選択してください。
 6. クラス名を入力してください。ファイル名になるのでお好きなように。その後、OKボタンを押します。
 7. 出力されるファイルは、UiUlils.csファイルが必須ですので、同じところに出力してください。
-8 シェーダーファイルを編集します。詳しくは[こちら](https://docs.unity3d.com/ja/current/Manual/SL-CustomEditor.html)にあります。
+8. シェーダーファイルを編集します。詳しくは[こちら](https://docs.unity3d.com/ja/current/Manual/SL-CustomEditor.html)にあります。
 nameの部分は6でつけたクラス名になります。
 
 ## How to use.
